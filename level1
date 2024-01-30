@@ -1,0 +1,32 @@
+### level 1 :
+* commandes utilisées : cd,cat
+* Ma démarche :
+    -je suis allé dans le répertoire /home/level/01_choice_tree
+  ```
+  cd /home/level/01_choice_tree 
+  ```
+    -j'ai lu le fichier README.md (c'était inutile) 
+  ```
+  cat README.md
+  ```
+    -je suis allé dans blue/hats/white
+  ```
+  cd blue/hats/white
+  cat README.EXE
+  ```
+   -j'ai découvert l'indice "GRAYHAT"
+  ```
+  BROTHER, TRUST ME
+  THE WHITEHAT HAS NO SECRETS
+  DEEP IN YOUR HEART YOU SHOULD BECOME A GRAYHAT
+  ALWAYS KEEP A JOKER.
+
+   - giz
+
+  ```
+   -je suis allé dans /home/level/01_choice_tree/blue/hats/grey/solution/patience/
+  ```
+  cd  /home/level/01_choice_tree/blue/hats/grey/solution/patience/
+  cat SOLUTION.txt
+  ```
+  la solution est **patience**
