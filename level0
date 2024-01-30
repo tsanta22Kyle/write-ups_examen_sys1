@@ -1,0 +1,30 @@
+### level 0:
+* commandes utilisées: pwd,cd,cat,ls
+  - pwd : afficher le répertoire de travail
+  - cd : changer le répertoire de travail
+  - cat : lire un fichier
+  - ls : afficher le contenu du répertoire courant
+* Ma démarche :
+  - j'ai changé de répertoire avec : cd /home/level/00_welcome/
+  - puis ls
+  - cat README.md
+   - dans le fichier README.md: 
+ ```
+  Welcome to the WarChall box
+  We hope you will learn a bit about linux systems here, and enjoy your st
+
+================================
+= All your activity is logged. =
+================================
+= If you find a way around our protections,
+= please contact us!  =
+= support@wechall.net =
+=======================
+We are looking for bitwarriors that can provide funny and educative chal
+=======================
+
+Oh .... and your solution to level0 is: "bitwarrior" without the quotes.
+
+ - The WarChall Staff
+
+  ```
