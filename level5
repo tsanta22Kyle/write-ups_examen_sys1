@@ -1,0 +1,19 @@
+### level 5 : 
+* commandes utilisées : cd, cat
+* Ma démarche :
+   - je suis allé dans le répertoire du niveau `/home/level/05_privacy`
+   - lu le fichier dedans ` cat README.md`
+```
+# WAR#5: Privacy
+
+Please protect your ~ from any other people than yourself.
+
+Then run ./checker
+
+( This does not work again yet. It would check and say the solution. )
+
+The 5th solution is "OKPRIVATE" without the quotes.
+
+
+ - The WeChall Staff
+```
