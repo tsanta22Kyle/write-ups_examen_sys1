@@ -1,5 +1,4 @@
- write-ups_examen_sys1
-* objectif : trouver les mot de passe
+
 ### level 0:
 * commandes utilisées: pwd,cd,cat,ls
   - pwd : afficher le répertoire de travail
