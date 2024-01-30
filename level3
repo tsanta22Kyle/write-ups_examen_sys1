@@ -1,0 +1,32 @@
+### level 3 : 
+  * commandes utilisées : cd, cat, ls -al
+  * Ma démarche:
+      -  je me suis déplacé dans le répertoire du niveau `cd /home/level/03/`
+      - `ls -al `
+        ```
+        total 16
+        drwxrwxr-x  3 root    level03 4096 Jan 11  2023 .
+        drwxr-xr-x 19 root    root    4096 Feb 11  2023 ..
+        -rw-r--r--  1 level03 level03  122 Jan 11  2023 .bash_history
+        drwxr-xr-x  3 level03 level03 4096 Jan 11  2023 .local
+        ```
+        - je suis allé dans .local/share/ `cd .local/share/`
+          ```
+          -bash: cd: .local/share/: Permission denied
+          ```
+        - je suis donc retourné dans level/03/ et j'ai lu l'autre fichier
+          ` cat .bash_history`
+ ```
+          The solution to SSH3 is: RepeatingHistory
+ls
+whoami
+exit
+ls
+ls -asl
+nano .bash_history
+ls -asl
+cat .bash_history
+ls -asl
+
+```
+
